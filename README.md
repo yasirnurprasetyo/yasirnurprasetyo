@@ -9,6 +9,7 @@
 </a>
 </p>
 
+<a href="https://www.instagram.com/yasirnurprasetyo" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" height="32px" alt="Instagram"></a>
 <!--
 **yasirnurprasetyo/yasirnurprasetyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
